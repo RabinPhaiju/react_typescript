@@ -7,3 +7,15 @@
     width:600px;
     margin:2px auto;
 }
+
+.class-with-primary{
+  color: red;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: gainsboro;
+  border: none;
+  border-radius: 4px;
+  padding: 4px;
+}
+.class-with-secondary{
+  color: grey;
+}
